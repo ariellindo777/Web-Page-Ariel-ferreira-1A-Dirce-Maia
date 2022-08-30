@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+}
+
+p {
+    width: 700px;
+    font-size: 50px;
+    margin: auto;
+    padding: 50px;
+    border: 4px solid black;
+}
+
+h2 {
+    text-align: center;
+    font-size: 70px;
+}
+
+.principal {
+    width: 1000px;
+    margin: auto;
+}
+#banner {
+    width: 1000px;
+}
